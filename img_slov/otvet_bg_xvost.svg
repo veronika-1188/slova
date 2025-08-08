@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="100%" width="100%" fill="none" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.73 14.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="_Слой_1-2" data-name="Слой 1">
+    <path class="cls-1" d="m18.73,0c8,4.92,16,9.83,24,14.75-14.24-.48-28.48-.97-42.73-1.45C6.24,8.87,12.48,4.43,18.73,0Z"/>
+  </g>
+</svg>
